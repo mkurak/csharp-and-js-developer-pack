@@ -1,16 +1,6 @@
-# README
+# C# and JS Developer Extensions Pack
 
-## This is the README for your extension pack "csharp-and-js-developer-pack"
-
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Hello, I'm Mesut Kurak
+<br>
+<br>
+I have prepared a package consisting of all the extensions I use as a C #, Javascript, node and vue developer. I also share with you. Hopefully it benefits your business.
